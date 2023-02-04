@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9fa8da&height=300&fontAlignY=40&section=header&text=Welcome&fontColor=ffffff&fontSize=90&desc=Yeonhee's%20GitHub%20Profile&descAlign=65&descSize=25&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b2dfdb&height=300&fontAlignY=40&section=header&text=Welcome&fontColor=ffffff&fontSize=90&desc=Yeonhee's%20GitHub%20Profile&descAlign=65&descSize=25&descAlignY=55" />
   <h3>:email: Email</h3>
   <p>cyh6327@gmail.com</p>
   </br>
@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cyh6327&show_icons=true&theme=buefy"/>&nbsp 
   </br>
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=buefy&langs_count=3)"/>&nbsp 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=graywhite&langs_count=3)"/>&nbsp 
 </div>
 
 <!--
