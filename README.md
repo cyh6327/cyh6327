@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cyh6327&show_icons=true&theme=buefy"/>&nbsp 
   </br>
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=graywhite&langs_count=3)"/>&nbsp 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=buefy&langs_count=3)"/>&nbsp 
   </br>
   </br>
 </div>
