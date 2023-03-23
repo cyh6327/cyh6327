@@ -30,6 +30,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=buefy&langs_count=3)"/>&nbsp 
   </br>
   </br>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cyh6772"/>
+  </br>
+  </br>
 </div>
 
 <!--
