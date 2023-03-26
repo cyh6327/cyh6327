@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=c5cae9&height=300&fontAlignY=40&section=header&text=Welcome&fontColor=ffffff&fontSize=90&desc=Yeonhee's%20GitHub%20Profile&descAlign=65&descSize=25&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D58A8&height=300&fontAlignY=40&section=header&text=Welcome&fontColor=ffffff&fontSize=90&desc=Yeonhee's%20GitHub%20Profile&descAlign=65&descSize=25&descAlignY=55" />
   <h3>:email: Email</h3>
   <p>cyh6327@gmail.com</p>
   </br>
   <h3>:books: Tech Stack</h3>
   <div>
-    <p>:star: used as the main</p>
     <img src="https://img.shields.io/badge/JAVA-056EB6?style=flat-square&logo=OpenJDK&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
@@ -18,19 +17,24 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
   </div>
   </br>
+  <h3>:computer: Tools</h3>
   <div>
-    <p>:fire: studying</p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp 
   </div>
   </br>
   </br>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cyh6772"/>
+  </br>
+  </br>
+  </br>
   <img src="https://github-readme-stats.vercel.app/api?username=cyh6327&show_icons=true&theme=buefy"/>&nbsp 
-  </br>
-  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=buefy&langs_count=3)"/>&nbsp 
   </br>
   </br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cyh6772"/>
+  
   </br>
   </br>
 </div>
