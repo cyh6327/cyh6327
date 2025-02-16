@@ -30,8 +30,10 @@
   </br>
   </br>
   </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=cyh6327&show_icons=true&theme=buefy"/>&nbsp 
+  
+  ![stat](https://github-readme-stats.vercel.app/api?username=cyh6327&show_icons=true&theme=buefy)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=buefy)
+  
   </br>
   </br>
   
