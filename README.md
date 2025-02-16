@@ -31,7 +31,7 @@
   </br>
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=cyh6327&show_icons=true&theme=buefy"/>&nbsp 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=buefy&langs_count=3)"/>&nbsp 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
   </br>
   </br>
   
