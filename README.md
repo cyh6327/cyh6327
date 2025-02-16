@@ -27,14 +27,16 @@
   </br>
   </br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cyh6772"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=buefy" height="170"/>
   </br>
   </br>
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=cyh6327&show_icons=true&theme=buefy"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=buefy" height="194.5"/>
-  </br>
-  </br>
-  
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cyh6327&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/cyh6327?pet-id=678901919978913055"
+      width="650"
+      height="120"
+    />
+  </a>
   </br>
   </br>
 </div>
