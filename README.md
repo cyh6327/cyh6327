@@ -33,7 +33,6 @@
     height="300"
   />
   </a>
-  </a>
   </br>
   </br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cyh6772"/>
