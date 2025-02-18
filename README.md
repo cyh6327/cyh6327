@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D58A8&height=300&fontAlignY=40&section=header&text=Welcome&fontColor=ffffff&fontSize=90&desc=Yeonhee's%20GitHub%20Profile&descAlign=65&descSize=25&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=83C7E6&height=300&fontAlignY=40&section=header&text=Welcome&fontColor=ffffff&fontSize=90&desc=Yeonhee's%20GitHub%20Profile&descAlign=65&descSize=25&descAlignY=55" />
   <h3>:email: Email</h3>
   <p>cyh6327@gmail.com</p>
   </br>
@@ -29,14 +29,14 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cyh6327&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/cyh6327"
-    width="650"
+    width="600"
     height="300"
   />
   </a>
   </br>
   </br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cyh6772"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=buefy" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyh6327&layout=compact&theme=graywhite" height="170"/>
   </br>
   </br>
 </div>
