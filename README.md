@@ -26,12 +26,12 @@
   </div>
   </br>
   </br>
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cyh6327&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/cyh6327?pet-id=678139274317295311"
-      width="600"
-      height="120"
-    />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cyh6327&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/cyh6327"
+    width="650"
+    height="300"
+  />
   </a>
   </br>
   </br>
